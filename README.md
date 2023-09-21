@@ -1,7 +1,6 @@
 ## binpackingjs
 
-[![Build Status](https://api.travis-ci.org/olragon/binpackingjs.svg?branch=master)](https://travis-ci.org/olragon/binpackingjs)
-[![npm version](http://img.shields.io/npm/v/binpackingjs.svg?style=flat)](https://npmjs.org/package/binpackingjs "View this project on npm")
+forked from [binpackingjs](https://github.com/olragon/binpackingjs) - removed 3d packing and fixed valid free rectangles being removed
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 binpackingjs is 2D well tested JavaScript Bin Packing library.
